@@ -3,11 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<path fill="#FCFCFC" stroke="#212222" stroke-width="14" stroke-miterlimit="10" d="M234.422,150.499
+<path fill="#D6C8BE" d="M134.5,194.08"/>
+<path fill="#FCFCFC" stroke="#212222" stroke-width="14" stroke-miterlimit="10" d="M109.422,243.499
 	c0,0-11.922,188.739-18.922,199.37s-29,34.631-31,31.631s2,3,2,3s104.992-29.008,111.996-43.004s-31.004-101.201,0-176.599
-	C298.496,164.897,233.289,157.222,234.422,150.499z"/>
-<path fill="#FCFCFC" stroke="#212222" stroke-width="14" stroke-miterlimit="10" d="M229.5,128.5c0,0,85,17.358,96,14.679
-	s-52.688,38.873-52.688,38.873S221.291,146.786,229.5,128.5z"/>
-<path fill="#D3D3D3" d="M272.813,190.831c0,0-5.313,127.333-26.979,168c0,0,43.716-14.995,47.192-19.831
-	c0,0-21.896-116.461-6.191-156.948C286.834,182.052,277.793,184.165,272.813,190.831z"/>
+	C173.496,257.897,108.289,250.222,109.422,243.499z"/>
+<path fill="#FCFCFC" stroke="#212222" stroke-width="14" stroke-miterlimit="10" d="M104.5,221.5c0,0,85,17.358,96,14.679
+	s-52.687,38.873-52.687,38.873S96.291,239.786,104.5,221.5z"/>
+<path fill="#FCFCFC" d="M187.307,257.001"/>
+<path fill="#D3D3D3" d="M147.813,283.831c0,0-5.313,127.333-26.979,168c0,0,43.716-14.995,47.191-19.831
+	c0,0-21.895-116.461-6.191-156.948C161.833,275.052,152.792,277.165,147.813,283.831z"/>
 </svg>

@@ -3,10 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<path fill="#844013" stroke="#212222" stroke-width="14" stroke-miterlimit="10" d="M249,262.4l25.32,39.619
+<path fill="#844013" stroke="#212222" stroke-width="14" stroke-miterlimit="10" d="M256,419.4l25.32,39.618
 	c0,0,11.219,4.48,13.699-4.02l-16.756-51.575"/>
-<path fill="#844013" stroke="#212222" stroke-width="14" stroke-miterlimit="10" d="M228.02,251.043l10.138,15.135
-	c0,0,42.005-15.356,35.472-30.252l-11.5-16.748C262.13,219.178,255.909,234.408,228.02,251.043z"/>
-<path fill="#A04B1C" d="M262.5,231.93l4.637,7.496c0,0-0.637,4.563-11.47,10.754l2.166-13.524L262.5,231.93z"/>
-<polyline fill="#A04B1C" points="264.5,261.582 268.51,257.961 279.75,296.25 "/>
+<path fill="#844013" stroke="#212222" stroke-width="14" stroke-miterlimit="10" d="M235.02,408.043l10.138,15.135
+	c0,0,42.005-15.355,35.472-30.252l-11.5-16.748C269.13,376.178,262.909,391.408,235.02,408.043z"/>
+<path fill="#A04B1C" d="M269.5,388.93l4.637,7.496c0,0-0.637,4.563-11.47,10.754l2.166-13.523L269.5,388.93z"/>
+<polyline fill="#A04B1C" points="271.5,418.582 275.51,414.961 286.75,453.25 "/>
 </svg>
